@@ -1,0 +1,13 @@
+Cliente:
+- Inicializar en terminal con el comando "npm run dev
+
+Server:
+- Inicializar con el comando node index.js
+
+MongoDB:
+- Levantar el servicio en dos consolas abiertas
+Comandos
+-mongod 
+-mongosh 
+
+
