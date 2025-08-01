@@ -9,26 +9,18 @@ Proyecto administrativo para la gestión de clientes, proyectos, diseños web, o
 ## Índice
 
 - [Descripción](#descripción)
-- [Demo](#demo)
 - [Tecnologías usadas](#tecnologías-usadas)
 - [Características principales](#características-principales)
 - [Esquema de Navegación](#esquema-de-navegación)
 - [Modelos de Base de Datos](#modelos-de-base-de-datos)
 - [Capturas de Pantalla](#capturas-de-pantalla)
 - [Cómo usar](#cómo-usar)
-- [Licencia](#licencia)
 
 ---
 
 ## Descripción
 
 SeoDynamics es un sistema web con base de datos integrada que permite la creación, modificación, eliminación y visualización de clientes y proyectos, facilitando la administración y el crecimiento de microempresas mediante servicios de diseño web, SEO y e-commerce.
-
----
-
-## Demo
-
-[Ver demo en vivo](https://solubletexturepacks.com)
 
 ---
 
@@ -168,11 +160,7 @@ SeoDynamics es un sistema web con base de datos integrada que permite la creaci�
 git clone https://github.com/tuusuario/tu-proyecto.git
 cd tu-proyecto
 npm install
-npm start
+npm run dev
+mongod
+mongosh
 ```
-
----
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT.
