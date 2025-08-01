@@ -69,6 +69,28 @@ SeoDynamics es un sistema web con base de datos integrada que permite la creaci�
 
 ---
 
+## Capturas de Pantalla
+
+**Clientes:**  
+![Clientes](./SeoDynamicsPics/2.png)
+
+**Proyectos:**  
+![Proyectos](./SeoDynamicsPics/3.png)
+
+**Diseños Web:**  
+![Diseños Web](./SeoDynamicsPics/4.png)
+
+**Optimización SEO:**  
+![Optimización SEO](./SeoDynamicsPics/5.png)
+
+**E-Commerce:**  
+![E-Commerce](./SeoDynamicsPics/6.png)
+
+**Revisión Feedback:**  
+![Revisión Feedback](./SeoDynamicsPics/7.png)
+
+---
+
 ## Modelos de Base de Datos
 
 **Cliente**
@@ -129,28 +151,6 @@ SeoDynamics es un sistema web con base de datos integrada que permite la creaci�
 - comentarios_cliente
 - calificacion
 - acciones_requeridas
-
----
-
-## Capturas de Pantalla
-
-**Clientes:**  
-![Clientes](./SeoDynamicsPics/2.png)
-
-**Proyectos:**  
-![Proyectos](./SeoDynamicsPics/3.png)
-
-**Diseños Web:**  
-![Diseños Web](./SeoDynamicsPics/4.png)
-
-**Optimización SEO:**  
-![Optimización SEO](./SeoDynamicsPics/5.png)
-
-**E-Commerce:**  
-![E-Commerce](./SeoDynamicsPics/6.png)
-
-**Revisión Feedback:**  
-![Revisión Feedback](./SeoDynamicsPics/7.png)
 
 ---
 
