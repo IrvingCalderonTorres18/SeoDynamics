@@ -1,7 +1,7 @@
 # SeoDynamics
 # Página Web Administrativa
 
-![Captura del proyecto](./SeoDynamics/1.png)
+![Captura del proyecto](./SeoDynamicsPics/1.png)
 
 Proyecto Seo Dynamics para administrar SEO de microempresas en Veracruz
 
@@ -311,33 +311,33 @@ Clientes:
 Diseño elaborado para la administración de clientes en el sistema de la
 base de datos.
 
-![Captura del proyecto](./SeoDynamics/2.png)
+![Captura del proyecto](./SeoDynamicsPics/2.png)
 
 Proyectos:
 Proyectos web llevados a cabo, administrados por la organización.
 
-![Captura del proyecto](./SeoDynamics/3.png)
+![Captura del proyecto](./SeoDynamicsPics/3.png)
 
 Diseños web:
 Ventana para administrar los diseños web.
 
-![Captura del proyecto](./SeoDynamics/4.png)
+![Captura del proyecto](./SeoDynamicsPics/4.png)
 
 Optimización SEO:
 Tabla de optimizaciones SEO realizadas a la página.
 
-![Captura del proyecto](./SeoDynamics/5.png)
+![Captura del proyecto](./SeoDynamicsPics/5.png)
 
 E-Commerce:
 Tabla de E-commerce para las empresas que necesitaron del servicio para
 sus productos en línea.
 
-![Captura del proyecto](./SeoDynamics/6.png)
+![Captura del proyecto](./SeoDynamicsPics/6.png)
 
 Revisión Feedback:
 La conclusión del proyecto almacenada en la base de datos.
 
-![Captura del proyecto](./SeoDynamics/7.png)
+![Captura del proyecto](./SeoDynamicsPics/7.png)
 
 
 
@@ -353,9 +353,9 @@ Descripción breve del proyecto.
 
 ## Demo
 
-![Captura del proyecto](./SeoDynamics/1.png)
+![Captura del proyecto](./SeoDynamicsPics/1.png)
 
-[Ver demo en vivo](https://tudemo.com)
+[Ver demo en vivo](https://solubletexturepacks.com)
 
 ## Tecnologías usadas
 
